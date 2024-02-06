@@ -15,5 +15,14 @@
         android:id="@+id/navigation_notifications"
         android:icon="@drawable/ic_notifications_black_24dp"
         android:title="Mapa" />
+    <item
+        android:id="@+id/navigation_diy"
+        android:icon="@mipmap/ic_recicleicontry3"
+        android:title="DIY" />
+    <item
+        android:id="@+id/navigation_ajustes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Ajustes" />
 
 </menu>

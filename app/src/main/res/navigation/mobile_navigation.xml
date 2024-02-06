@@ -24,4 +24,11 @@
         android:name="com.example.trashtownapp6.ui.notifications.NotificationsFragment"
         android:label="Maps"
         tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/diy_fragment"
+        android:name="com.example.trashtownapp6.diy_fragment"
+        android:label="DIY"
+        android:src="@mipmap/ic_recicleicontry3"
+        tools:layout="@layout/fragment_diy_fragment" />
 </navigation>
