@@ -4,13 +4,13 @@
     android:id="@+id/fragment_DIY"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/greenchroma"
     tools:context=".diy_fragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:id="@+id/textDIY"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="asdjkhk" />
+        android:layout_height="match_parent" />
 
 </FrameLayout>

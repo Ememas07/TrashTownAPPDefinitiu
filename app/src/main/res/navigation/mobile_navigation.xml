@@ -34,7 +34,7 @@
     <fragment
         android:id="@+id/navigation_ajustes"
         android:name="com.example.trashtownapp6.ajustesFragment.AjustesFragment"
-        android:label="ajustes"
+        android:label="Ajustes"
         android:src="@mipmap/ic_recicleicontry3"
         tools:layout="@layout/fragment_ajustes" />
 </navigation>

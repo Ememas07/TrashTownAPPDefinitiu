@@ -4,12 +4,12 @@
     <item
         android:id="@+id/navigation_home"
         android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_home" />
+        android:title="Principal" />
 
     <item
         android:id="@+id/navigation_dashboard"
         android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="Camera" />
+        android:title="Camara" />
 
     <item
         android:id="@+id/navigation_notifications"
@@ -17,11 +17,12 @@
         android:title="Mapa" />
     <item
         android:id="@+id/navigation_diy"
-        android:icon="@mipmap/ic_recicleicontry3"
+        android:icon="@drawable/baseline_recycling_24"
         android:title="DIY" />
     <item
         android:id="@+id/navigation_ajustes"
         android:layout_width="wrap_content"
+        android:icon="@drawable/baseline_settings_24"
         android:layout_height="wrap_content"
         android:title="Ajustes" />
 
